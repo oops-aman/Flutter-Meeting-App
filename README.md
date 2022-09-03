@@ -1,16 +1,38 @@
-# zoom_clone
+Zoom Clone
 
-A new Flutter project.
+Zoom Clone App that works on Android
 
-## Getting Started
+Features:
 
-This project is a starting point for a Flutter application.
+  * Google Sign In
+  * Create New Meeting
+  * Join Meeting
+  * Mute/ UnMute Audio
+  * Turn on/off video cam
+  * Change Display name while joining
+  * Raise Hand
+  * Start screen sharing
+  * Mute Everyone
+  * Chat
+  * End Call
+  * See your meeting history
+  * Log Out
 
-A few resources to get you started if this is your first Flutter project:
+Tech Used:
+  
+ Server-
+  * Firestore
+  * FirebaseAuth
+  * Jitsi Meet
+  * Google Sign In
+  
+ Client-
+  * Flutter
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+![Screenshot_2022-03-08-00-13-52-98_52756321e3e2cda458891b1b25161159](https://user-images.githubusercontent.com/83208906/157098926-ac670cb7-67c7-42ef-95a3-5f7025127916.jpg)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+![Screenshot_2022-03-08-00-14-12-32_52756321e3e2cda458891b1b25161159](https://user-images.githubusercontent.com/83208906/157099490-2749c6d4-e766-4157-b643-61a3a4ad7832.jpg)
+
+
+![Screenshot_2022-03-08-00-14-22-82_52756321e3e2cda458891b1b25161159](https://user-images.githubusercontent.com/83208906/157099535-9943a028-2d7c-4d89-bb1c-71a05de454f5.jpg)
